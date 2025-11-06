@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hola mi gente estamo en japon");
+        System.out.println("La resta 2-1 = 1");
     }
 }
